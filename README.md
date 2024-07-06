@@ -493,3 +493,9 @@ nav {
 </body>
 </html>
 ~~~
+
+
+## OUTPUT
+
+![1](https://github.com/Thiru-AI/dribble-clone/assets/94980741/43e94fec-1716-4a39-92c0-8c334d7bf3e8)
+![2](https://github.com/Thiru-AI/dribble-clone/assets/94980741/80e3dcc2-2357-4c23-876b-0c5cf99b31b3)
